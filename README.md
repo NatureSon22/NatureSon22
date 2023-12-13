@@ -44,6 +44,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/NatureSon22/NatureSon22/output/snake.svg" alt="Snake animation" />
-
 ###
