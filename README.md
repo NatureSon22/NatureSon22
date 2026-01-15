@@ -1,15 +1,22 @@
-<h2 align="left">👋 Hey there! I'm Jio</h2>
+<h2 align="left">👋 Hey there! I'm Jio (NatureSon)</h2>
 
 - 🕸️ **Frontend Web Developer** & IT Student.
 - 🎓 **Bachelor of Science in Information Technology** at University of Rizal System Binangonan.
 - 📍 **Philippines**
 - 🚀 **Mission:** Crafting scalable, accessible, and user-friendly web applications that solve real-world problems.
 
-### 
+### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NatureSon22&show_icons=true&theme=dracula&locale=en" height="150" alt="stats graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NatureSon22&theme=dracula" height="150" alt="streak stats" />
+  <picture>
+    <source srcset="https://raw.githubusercontent.com/NatureSon22/NatureSon22/main/output/stats_general.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
+    <img src="https://raw.githubusercontent.com/NatureSon22/NatureSon22/main/output/stats_general.svg" height="170" alt="General Stats">
+  </picture>
+
+  <picture>
+    <source srcset="https://raw.githubusercontent.com/NatureSon22/NatureSon22/main/output/stats_langs.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
+    <img src="https://raw.githubusercontent.com/NatureSon22/NatureSon22/main/output/stats_langs.svg" height="170" alt="Programming Languages">
+  </picture>
 </div>
 
 ### 🛠️ Technical Skills
@@ -23,12 +30,6 @@
 - 🗄️ **Databases:** <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
 
 - 💻 **Tools & Platforms:** <img src="https://skillicons.dev/icons?i=git,github,figma,canva" />
-
-### 🏆 Goals
-
-- 🚀 Master modern **Frontend Frameworks** and state management.
-- 🌐 Deepen my expertise in **Web Accessibility** and semantic HTML.
-- 🎨 Perfect the transition from **Figma designs** to pixel-perfect code.
 
 ### 📈 Achievements
 
